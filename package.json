@@ -1,0 +1,22 @@
+{
+  "name": "ckblogs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ckopecky/Next-JS-Blogs.git",
+  "author": "\"ckopecky\" <kopecky12112@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gray-matter": "^4.0.2",
+    "js-yaml": "^4.0.0",
+    "marked": "^1.2.7",
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "scripts": {
+    "dev": "next"
+  },
+  "devDependencies": {
+    "raw-loader": "^4.0.2"
+  }
+}
